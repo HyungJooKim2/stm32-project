@@ -1,0 +1,6 @@
+../Core/Src/app.c:15:6:HAL_GPIO_EXTI_Callback	24	static
+../Core/Src/app.c:41:6:LD1_Toggle	24	static
+../Core/Src/app.c:59:6:LD2_Toggle	24	static
+../Core/Src/app.c:77:6:LD3_Toggle	24	static
+../Core/Src/app.c:94:6:app_init	16	static
+../Core/Src/app.c:106:6:app	16	static

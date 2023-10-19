@@ -1,0 +1,6 @@
+../Core/Src/cli.c:48:12:cli_help	24	static
+../Core/Src/cli.c:59:12:cli_echo	16	static
+../Core/Src/cli.c:70:12:cli_led	24	static
+../Core/Src/cli.c:88:12:cli_pwm	24	static
+../Core/Src/cli.c:108:6:cli_parser	72	static
+../Core/Src/cli.c:150:6:cli_init	8	static

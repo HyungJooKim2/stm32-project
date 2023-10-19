@@ -1,0 +1,4 @@
+../Core/Src/app.c:23:6:app	5
+../Core/Src/app.c:72:13:app_init	1
+../Core/Src/app.c:81:6:HAL_GPIO_EXTI_Callback	3
+../Core/Src/app.c:95:5:__io_putchar	1

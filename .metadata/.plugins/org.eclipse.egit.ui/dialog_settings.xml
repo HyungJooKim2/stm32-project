@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<item key="org.eclipse.egit.ui.internal.clone.GitSelectWizardPageWizardSel" value="0"/>
+	<list key="EGit.KnownHosts">
+		<item value="bitbucket.org"/>
+		<item value="git.eclipse.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="&lt;hyungjookim12@gmail.com&gt;"/>
+		<item value="User &lt;User@DESKTOP-4J3E8GD&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="&lt;hyungjookim12@gmail.com&gt;"/>
+		<item value="User &lt;User@DESKTOP-4J3E8GD&gt;"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/HyungJooKim2/stm32-project.git"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\User\git\stm32-project\.git">
+			<item value="false"/>
+			<item value="User &lt;User@DESKTOP-4J3E8GD&gt;"/>
+			<item value="[2023-07-27 김형주]&#x0D;&#x0A;1. HAL_Delay 사용 없이 시간 계산하여 LED Toggle 구현&#x0D;&#x0A;2. 구조체, 포인터, 함수 활용 실습&#x0D;&#x0A;3. 주석 추가"/>
+			<item value="User &lt;User@DESKTOP-4J3E8GD&gt;"/>
+			<item value="c2a747d45420d63c4dd087a711174206c85dfb19"/>
+			<item value="0"/>
+			<item value="false"/>
+			<item value=""/>
+		</list>
+	</section>
+	<section name="GitImportWizard">
+	</section>
+	<section name="org.eclipse.egit.ui.internal.push.PushResultDialog.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="635"/>
+		<item key="DIALOG_Y_ORIGIN" value="204"/>
+		<item key="DIALOG_WIDTH" value="668"/>
+		<item key="DIALOG_HEIGHT" value="481"/>
+		<item key="DIALOG_FONT_NAME" value="1|맑은 고딕|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|맑은 고딕"/>
+		<list key="sashWeights">
+			<item value="600"/>
+			<item value="400"/>
+		</list>
+	</section>
+</section>

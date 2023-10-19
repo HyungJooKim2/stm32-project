@@ -1,0 +1,5 @@
+commit_dialog_history_messages=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<messages>\r\n<message>[2023-07-27 \uAE40\uD615\uC8FC]&\#x0A;1. HAL_Delay \uC0AC\uC6A9 \uC5C6\uC774 \uC2DC\uAC04 \uACC4\uC0B0\uD558\uC5EC LED Toggle \uAD6C\uD604&\#x0A;2. \uAD6C\uC870\uCCB4, \uD3EC\uC778\uD130, \uD568\uC218 \uD65C\uC6A9 \uC2E4\uC2B5&\#x0A;3. \uC8FC\uC11D \uCD94\uAC00</message>\r\n<message>[2023-07-27 \uAE40\uD615\uC8FC]&\#x0A;1. HAL_Delay \uC0AC\uC6A9 \uC5C6\uC774 \uC2DC\uAC04 \uACC4\uC0B0\uD558\uC5EC LED Toggle \uAD6C\uD604&\#x0A;2. \uAD6C\uC870\uCCB4, \uD3EC\uC778\uD130, \uD568\uC218 \uD65C\uC6A9 \uC2E4\uC2B5</message>\r\n<message>[2023-07-27 GPIO]</message>\r\n<message> [2023.07.27 \uAE40\uD615\uC8FC]</message>\r\n</messages>
+eclipse.preferences.version=1
+repositories_view_filters=<?xml version\="1.0" encoding\="UTF-8"?>\r\n<FilterCache/>
+resourcehistory_graph_split=500,500
+resourcehistory_rev_split=700,300

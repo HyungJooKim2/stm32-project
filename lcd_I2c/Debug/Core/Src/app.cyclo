@@ -1,0 +1,4 @@
+../Core/Src/app.c:47:6:app_main	1
+C:\ST\STM32CubeIDE_1.13.0\STM32CubeIDE\plugins\com.st.stm32cube.ide.mcu.externaltools.gnu-tools-for-stm32.11.3.rel1.win32_1.1.0.202305231506\tools\bin/../lib/gcc/arm-none-eabi/11.3.1/../../../../arm-none-eabi/include/stdio.h:224:5:fputc	1
+../Core/Src/app.c:74:6:app_init	1
+../Core/Src/app.c:79:6:app	1

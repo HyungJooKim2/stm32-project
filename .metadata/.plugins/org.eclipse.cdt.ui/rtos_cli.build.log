@@ -1,0 +1,25 @@
+17:07:35 **** Incremental Build of configuration Debug for project rtos_cli ****
+make -j16 all 
+arm-none-eabi-gcc "../Core/Src/app.c" -mcpu=cortex-m4 -std=gnu11 -g3 -DDEBUG -DUSE_HAL_DRIVER -DSTM32F429xx -c -I../Core/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc -I../Drivers/STM32F4xx_HAL_Driver/Inc/Legacy -I../Drivers/CMSIS/Device/ST/STM32F4xx/Include -I../Drivers/CMSIS/Include -I../Middlewares/Third_Party/FreeRTOS/Source/include -I../Middlewares/Third_Party/FreeRTOS/Source/CMSIS_RTOS_V2 -I../Middlewares/Third_Party/FreeRTOS/Source/portable/GCC/ARM_CM4F -O0 -ffunction-sections -fdata-sections -Wall -fstack-usage -fcyclomatic-complexity -MMD -MP -MF"Core/Src/app.d" -MT"Core/Src/app.o" --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -o "Core/Src/app.o"
+../Core/Src/app.c: In function 'thread2_Task':
+../Core/Src/app.c:85:24: warning: format '%x' expects argument of type 'unsigned int', but argument 2 has type 'uint32_t' {aka 'long unsigned int'} [-Wformat=]
+   85 |     printf("flags : %08x : ", flags);
+      |                     ~~~^      ~~~~~
+      |                        |      |
+      |                        |      uint32_t {aka long unsigned int}
+      |                        unsigned int
+      |                     %08lx
+arm-none-eabi-gcc -o "rtos_cli.elf" @"objects.list"   -mcpu=cortex-m4 -T"C:\Users\User\Desktop\stm32\rtos_cli\STM32F429ZITX_FLASH.ld" --specs=nosys.specs -Wl,-Map="rtos_cli.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+Finished building target: rtos_cli.elf
+ 
+arm-none-eabi-size   rtos_cli.elf 
+arm-none-eabi-objdump -h -S  rtos_cli.elf  > "rtos_cli.list"
+   text	   data	    bss	    dec	    hex	filename
+  37156	    116	  24372	  61644	   f0cc	rtos_cli.elf
+Finished building: default.size.stdout
+ 
+Finished building: rtos_cli.list
+ 
+
+17:07:39 Build Finished. 0 errors, 1 warnings. (took 3s.957ms)
+

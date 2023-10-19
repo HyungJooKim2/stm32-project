@@ -1,0 +1,10 @@
+../Core/Src/uart.c:42:6:uart_init	4
+../Core/Src/uart.c:68:6:uart_regcbf	1
+../Core/Src/uart.c:73:6:uart_QPut	1
+../Core/Src/uart.c:78:13:uartProc_Task	13
+../Core/Src/uart.c:190:6:slip_tx	6
+../Core/Src/uart.c:216:6:slip_rx	12
+../Core/Src/uart.c:263:13:uartProc_Timer	2
+../Core/Src/uart.c:272:6:HAL_UART_RxCpltCallback	4
+../Core/Src/uart.c:324:5:_write	1
+../Core/Src/uart.c:337:5:__io_putchar	1

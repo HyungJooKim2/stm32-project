@@ -1,0 +1,11 @@
+../Core/Src/i2c_HD44780.c:25:13:lcd_send_cmd	32	static
+../Core/Src/i2c_HD44780.c:68:13:lcd_send_data	32	static
+../Core/Src/i2c_HD44780.c:95:6:lcd_init	8	static
+../Core/Src/i2c_HD44780.c:114:6:lcd_disp_on	8	static
+../Core/Src/i2c_HD44780.c:125:6:lcd_disp_off	8	static
+../Core/Src/i2c_HD44780.c:136:6:lcd_home	8	static
+../Core/Src/i2c_HD44780.c:148:6:lcd_clear_display	8	static
+../Core/Src/i2c_HD44780.c:160:6:lcd_locate	16	static
+../Core/Src/i2c_HD44780.c:192:6:lcd_printchar	16	static
+../Core/Src/i2c_HD44780.c:203:6:lcd_print_string	16	static
+../Core/Src/i2c_HD44780.c:214:6:lcd_printf	24	static

@@ -1,0 +1,6 @@
+../Core/Src/cli.c:48:12:cli_help	2
+../Core/Src/cli.c:59:12:cli_echo	2
+../Core/Src/cli.c:70:12:cli_led	3
+../Core/Src/cli.c:88:12:cli_pwm	4
+../Core/Src/cli.c:108:6:cli_parser	5
+../Core/Src/cli.c:150:6:cli_init	1

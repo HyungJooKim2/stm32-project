@@ -1,0 +1,8 @@
+2023-08-30 13:27:32,755 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Read timed out
+2023-08-30 13:27:34,762 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Connect timed out
+2023-08-30 13:27:36,765 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Connect timed out
+2023-08-30 13:27:38,768 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Connect timed out
+2023-08-30 13:27:40,770 [ERROR] AdobePublisher:162 - Exception while opening the connection: java.net.SocketTimeoutException: Connect timed out
+2023-08-30 13:27:42,775 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2023-08-30 13:27:44,779 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out
+2023-08-30 13:27:46,784 [ERROR] ConfigurationRetriever:142 - IOException on connection: Connect timed out

@@ -1,0 +1,7 @@
+../Core/Src/app.c:44:6:app_init	8	static
+../Core/Src/app.c:50:6:app	8	static
+../Core/Src/app.c:73:6:proc_10ms	16	static
+../Core/Src/app.c:78:6:proc_50ms	16	static
+../Core/Src/app.c:83:6:proc_100ms	16	static
+../Core/Src/app.c:88:6:proc_1s	16	static
+../Core/Src/app.c:93:6:HAL_IncTick	4	static

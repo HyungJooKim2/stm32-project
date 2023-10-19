@@ -1,0 +1,3 @@
+1694595025186	Delete resource 'I2c_test'
+1694752986979	Delete resource 'lcd_I2c_test/Core/Src/freertos.c'
+1694752996033	Delete resource 'lcd_I2c_test/Core/Inc/FreeRTOSConfig.h'

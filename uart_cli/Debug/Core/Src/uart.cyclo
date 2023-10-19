@@ -1,0 +1,5 @@
+../Core/Src/uart.c:36:6:uart_init	1
+../Core/Src/uart.c:49:6:uart_regcbf	1
+../Core/Src/uart.c:55:6:uart_proc	3
+../Core/Src/uart.c:71:6:HAL_UART_RxCpltCallback	6
+../Core/Src/uart.c:94:5:__io_putchar	1

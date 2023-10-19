@@ -1,0 +1,2 @@
+../Core/Src/pwm.c:18:6:pwm_init	8	static
+../Core/Src/pwm.c:25:6:pwm_dimming	24	static

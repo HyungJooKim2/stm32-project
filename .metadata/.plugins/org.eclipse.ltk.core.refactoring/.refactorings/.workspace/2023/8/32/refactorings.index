@@ -1,7 +1,0 @@
-1691454367025	Rename resource 'uart_cli'
-1691454841497	Delete resource 'uart_cli(old)'
-1691481330475	Delete resource 'uart_cli'
-1691481336405	Delete resource 'rtos_cli'
-1691558239440	Delete resource 'gpio_practice'
-1691633810874	Delete resource 'rtos_msg_q'
-1691653457318	Delete resource 'adc'
